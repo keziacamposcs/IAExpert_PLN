@@ -21,3 +21,9 @@ As atividade incluem:
 * Deep Learning
 * Python
 * Uso da ferramenta TensorFlow
+* Bert
+
+---
+<h1 align="center">
+<img src="https://github.com/keziacamposcs/PLN_ProcessamentoDeLingNatural/blob/main/Apresenta%C3%A7%C3%A3o/bert.png" width="700"> 
+</h1>
