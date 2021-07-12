@@ -17,6 +17,7 @@ Nesse repositório, se encontra todas atividades realizadas voltadas para Proces
 ---
 As atividade incluem:
 * Redes Neurais Convolucionais para PLN
+* Redes Neurais Recorrentes para PLN
 * Arquitetura Transformer
 * Deep Learning
 * Python
