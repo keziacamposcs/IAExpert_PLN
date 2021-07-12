@@ -1,5 +1,5 @@
 <h1 align="center">
-<img src="https://github.com/keziacamposcs/PLN_ProcessamentoDeLingNatural/blob/main/Apresenta%C3%A7%C3%A3o/apresentacao.png" width="700"> 
+<img src="https://github.com/keziacamposcs/NLP/blob/main/Apresenta%C3%A7%C3%A3o/apresentacao1.png" width="700"> 
 </h1>
 
 
