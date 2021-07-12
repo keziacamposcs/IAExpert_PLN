@@ -15,7 +15,7 @@ Nesse repositório, se encontra todas atividades realizadas voltadas para Proces
 
 
 ---
-As atividade incluem:
+Os modelos incluem:
 * Redes Neurais Convolucionais para PLN
 * Redes Neurais Recorrentes para PLN
 * Arquitetura Transformer
@@ -28,3 +28,6 @@ As atividade incluem:
 <h1 align="center">
 <img src="https://github.com/keziacamposcs/PLN_ProcessamentoDeLingNatural/blob/main/Apresenta%C3%A7%C3%A3o/bert.png" width="700"> 
 </h1>
+
+---
+###Arquitetura Transformer
