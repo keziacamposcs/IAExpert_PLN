@@ -30,4 +30,10 @@ Os modelos incluem:
 </h1>
 
 ---
-###Arquitetura Transformer
+
+Artigo para entender melhor: https://medium.com/data-hackers/a-revolu%C3%A7%C3%A3o-no-processamento-de-linguagem-natural-com-deep-learning-eba175f64c01
+
+---
+
+
+
