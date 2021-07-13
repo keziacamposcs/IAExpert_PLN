@@ -35,5 +35,7 @@ Artigo para entender melhor: https://medium.com/data-hackers/a-revolu%C3%A7%C3%A
 
 ---
 
-
+<h1 align="center">
+<img src="https://github.com/keziacamposcs/NLP/blob/main/Apresenta%C3%A7%C3%A3o/transformer.png" width="700"> 
+</h1>
 
