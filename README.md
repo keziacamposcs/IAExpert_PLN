@@ -3,15 +3,15 @@
 </h1>
 
 
-Nesse repositório, se encontra todas atividades realizadas voltadas para Processamento de Linguagem Natural.
+Nesse repositório, se encontra todas atividades realizadas voltadas para Processamento de Linguagem Natural(NLP).
 
 
 ---
 * Classificação de Sentimento utilizando Redes Neurais Convolucionais
-* Tradução de texto - Inglês -> Português (Em produção...)
-* Análise de Sentimento utilizando BERT como tokenizador (Em produção...)
-* Análise de Sentimento utilizando BERT como embedder(Em produção...)
-* Sistema de perguntas e respostas (Q&A)(Em produção...)
+* Tradução de texto de Inglês para Português
+* Classificação de Sentimento utilizando BERT como tokenizador
+* Análise de Sentimento utilizando BERT como embedder
+* Sistema de perguntas e respostas (Q&A)
 
 
 ---
