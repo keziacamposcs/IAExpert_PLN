@@ -30,15 +30,12 @@ Os modelos incluem:
 </h1>
 
 <h1 align="center">
+<img src="https://github.com/keziacamposcs/NLP/blob/main/Apresenta%C3%A7%C3%A3o/transformer.png"> 
+</h1>
+
+<h1 align="center">
 <img src="https://github.com/keziacamposcs/NLP/blob/main/Apresenta%C3%A7%C3%A3o/tokeniza%C3%A7%C3%A3o_embedding.png"> 
 </h1>
 ---
-
 Artigo para entender melhor: https://medium.com/data-hackers/a-revolu%C3%A7%C3%A3o-no-processamento-de-linguagem-natural-com-deep-learning-eba175f64c01
-
 ---
-
-<h1 align="center">
-<img src="https://github.com/keziacamposcs/NLP/blob/main/Apresenta%C3%A7%C3%A3o/transformer.png" width="700"> 
-</h1>
-
