@@ -8,10 +8,10 @@ Nesse repositório, se encontra todas atividades realizadas voltadas para Proces
 
 ---
 * Classificação de Sentimento utilizando Redes Neurais Convolucionais
-* Tradução de texto de Inglês para Português
 * Classificação de Sentimento utilizando BERT como tokenizador
-* Análise de Sentimento utilizando BERT como embedder
-* Sistema de perguntas e respostas (Q&A)
+* Classificação de Sentimento utilizando BERT como embedder
+* Tradução de texto de Inglês para Português
+
 
 
 ---
