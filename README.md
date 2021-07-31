@@ -7,10 +7,12 @@ Nesse repositório, se encontra todas atividades realizadas voltadas para Proces
 
 
 ---
-* Classificação de Sentimento utilizando Redes Neurais Convolucionais
-* Classificação de Sentimento utilizando BERT como tokenizador
-* Classificação de Sentimento utilizando BERT como embedder
-* Tradução de texto de Inglês para Português
+* Classificação de Sentimento utilizando Redes Neurais Convolucionais: [Aqui](https://github.com/keziacamposcs/NLP/blob/main/Classifica%C3%A7%C3%A3oDeSentimentos.ipynb)
+* Classificação de Sentimento utilizando BERT como tokenizador: [Aqui](https://github.com/keziacamposcs/NLP/blob/main/ClassificacaoDeSentimento_BERT(tokenizador).ipynb)
+* Classificação de Sentimento utilizando BERT como embedder: [Aqui](https://github.com/keziacamposcs/NLP/blob/main/Classifica%C3%A7%C3%A3oDeSentimento_BERT(Embedding).ipynb)
+* Tradução de texto de Inglês para Português: [Aqui]()
+* Classificação Básica de Texto - utilizando textos de avaliação de filmes do IMDb: [Aqui](https://github.com/keziacamposcs/AnaliseDeDados-e-MachineLearning/blob/main/TensorFlow/Classifica%C3%A7%C3%A3oB%C3%A1sicaTexto.ipynb)
+
 
 
 
